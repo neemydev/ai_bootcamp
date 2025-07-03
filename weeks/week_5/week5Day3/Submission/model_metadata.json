@@ -1,0 +1,16 @@
+[
+     {
+          "model_version": "1.0",
+          "pkl_file": "model_1.0.pkl",
+          "joblib_file": "model_1.0.joblib",
+          "timestamp": "2025-06-04T16:19:35.584389Z",
+          "seed": 42
+     },
+     {
+          "model_version": "2.0",
+          "pkl_file": "model_2.0.pkl",
+          "joblib_file": "model_2.0.joblib",
+          "timestamp": "2025-06-04T16:19:35.946493Z",
+          "seed": 21
+     }
+]
